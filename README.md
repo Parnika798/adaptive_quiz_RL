@@ -150,3 +150,7 @@ Statistical analysis confirmed that **RL-based adaptive strategies outperform ba
 ## Install Dependencies
 ```bash
 pip install -r requirements.txt
+
+streamlit run app.py
+
+python train.py
