@@ -147,7 +147,7 @@ Statistical analysis confirmed that **RL-based adaptive strategies outperform ba
 
 # Running the Project
 
-## Install Dependencies
+
 ```bash
 pip install -r requirements.txt
 
